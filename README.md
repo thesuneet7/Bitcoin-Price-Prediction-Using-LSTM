@@ -41,7 +41,7 @@ We use a Long Short-Term Memory (LSTM) neural network for time series prediction
 ## Results
 The model predicts the closing price of Bitcoin with reasonable accuracy. Example predictions and visualizations are provided in the notebook.
 
-![Example Prediction](path/to/example.png)
+![Example Prediction](example.png)
 
 ## Future Work
 To improve the model, the following steps can be considered:
